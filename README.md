@@ -1,1 +1,9 @@
-This repo was created to enable the collaboration of Ridwan10 and Linwills on an ALX assignment for creating a simple shell program
+# 0x16. C - Simple Shell
+
+
+
+
+
+### Authors
+- Gbemi Jacob Adebayo
+- Elo Idiodi
